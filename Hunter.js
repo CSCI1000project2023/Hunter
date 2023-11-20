@@ -6,7 +6,7 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Eddie. </h1>
+            <h1 className='title'>Hello! My name is Hunter Sparling. </h1>
           </div>
           <img
             className='pic'
@@ -15,10 +15,9 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey my name is Eddie Strand and I'm a freshman computer science major at CU Boulder, 
-            originally from Denver, Colorado. Some of my hobbies include playing sports such as 
-            tennis, baseball, volleyball, and basketball, I also enjoy drumming, playing video games, 
-            and going to the gym. "
+            My name is Hunter Sparling. I am currently a freshman at CU Boulder. Some of my hobbies include piano, gaming, and tennis!
+            So far, I am enjoying my time at CU Boulder, and I plan on continuing my education until I receive my master's degree in
+            some STEM-related field. I am interested in studying abroad in Japan, and I think it would be super fun! "
           </p>
 
           <a className='button' href='/'>

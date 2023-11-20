@@ -9,9 +9,9 @@ export default function examplePage() {
             <h1 className='title'>Hello! My name is Hunter Sparling. </h1>
           </div>
           <img
-            className='pic'
-            src='eddie_strand_face.jpg'
-            alt='Eddie Strand'
+            className=
+            src=
+            alt=
           />
 
           <p className='description'>

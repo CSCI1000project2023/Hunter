@@ -16,7 +16,7 @@ export default function examplePage() {
 
           <p className='description'>
             My name is Hunter Sparling and I am currently a student at Colorado University
-            Boulder. Some of my hobbies include gaming, tennis, and piano. I play on getting
+            Boulder. Some of my hobbies include gaming, tennis, and piano. I plan on getting
             my masters in a stem related field. I also plan on studying abroad in Japan for
             my Junior year. "
           </p>
